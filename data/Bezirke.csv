@@ -1,0 +1,96 @@
+District,Bundesland,Kfz-Kz,Area,Population,Towns
+Amstetten,Niederösterreich,AM,1187.73,116984.0,33.0
+Baden,Niederösterreich,BN,753.64,147850.0,30.0
+Bludenz,Vorarlberg,BZ,1287.64,64678.0,29.0
+Braunau (Braunau am Inn),Oberösterreich,BR,1040.84,107732.0,46.0
+Bregenz,Vorarlberg,B,863.36,136103.0,40.0
+Bruck an der Leitha,Niederösterreich,"BL, SW(B) WU(A)",703.11,106636.0,33.0
+Bruck-Mürzzuschlag (Bruck an der Mur),Steiermark,BM MZ(A),2156.93,98242.0,19.0
+Deutschlandsberg,Steiermark,DL,863.47,61037.0,15.0
+Dornbirn,Vorarlberg,DO,172.36,90885.0,3.0
+Eferding (Grieskirchen),Oberösterreich,EF,259.72,33422.0,12.0
+Eisenstadt,Burgenland,E,42.88,15240.0,1.0
+Eisenstadt-Umgebung (Eisenstadt),Burgenland,EU,453.14,44257.0,23.0
+Feldkirch,Vorarlberg,FK,278.31,110008.0,24.0
+Feldkirchen (Feldkirchen in Kärnten),Kärnten,FE,558.49,29890.0,10.0
+Freistadt,Oberösterreich,FR,993.96,67163.0,27.0
+Gänserndorf,Niederösterreich,GF,1271.4,106846.0,44.0
+Gmünd,Niederösterreich,GD,786.39,36085.0,21.0
+Gmunden,Oberösterreich,GM,1431.58,102335.0,20.0
+Graz,Steiermark,G,127.57,292630.0,1.0
+Graz-Umgebung (Graz),Steiermark,GU,1084.55,160412.0,36.0
+Grieskirchen,Oberösterreich,GR,579.06,65660.0,33.0
+Gröbming (Expositur im Bezirk Liezen),Steiermark,GB,,,
+Güssing,Burgenland,GS,485.34,25668.0,28.0
+Hallein,Salzburg,HA,668.35,60992.0,13.0
+Hartberg-Fürstenfeld (Hartberg),Steiermark,"HF HB, FF(A)",1224.28,90924.0,36.0
+Hermagor (Hermagor-Pressegger See),Kärnten,HE,808.13,18030.0,7.0
+Hollabrunn,Niederösterreich,HL,1010.88,51646.0,24.0
+Horn,Niederösterreich,HO,784.0,30790.0,20.0
+Imst,Tirol,IM,1724.96,61539.0,24.0
+Innsbruck (I),Tirol,I,104.91,130585.0,1.0
+Innsbruck-Land (Innsbruck),Tirol,IL,1990.17,182918.0,63.0
+Jennersdorf,Burgenland,JE,253.34,17158.0,12.0
+Kirchdorf (Kirchdorf an der Krems),Oberösterreich,KI,1240.01,57505.0,23.0
+Kitzbühel,Tirol,KB,1163.3,65274.0,20.0
+Klagenfurt am Wörthersee,Kärnten,K,120.12,102618.0,1.0
+Klagenfurt-Land (Klagenfurt am Wörthersee),Kärnten,KL,765.64,60971.0,19.0
+Korneuburg,Niederösterreich,KO WU(A),661.84,91982.0,20.0
+Krems an der Donau,Niederösterreich,KS,51.66,24921.0,1.0
+Krems (Krems an der Donau),Niederösterreich,KR,923.92,56612.0,30.0
+Kufstein,Tirol,KU,969.97,111999.0,30.0
+Landeck,Tirol,LA,1595.14,44498.0,30.0
+Leibnitz,Steiermark,LB,749.97,86195.0,29.0
+Leoben,Steiermark,"LE, LN(C)",1053.49,59131.0,16.0
+Lienz,Tirol,LZ,2020.08,48818.0,33.0
+Liezen,Steiermark,LI BA(A),3318.72,79609.0,29.0
+Lilienfeld,Niederösterreich,LF,931.65,25402.0,14.0
+Linz,Oberösterreich,L,95.99,207247.0,1.0
+Linz-Land (Linz),Oberösterreich,LL,460.41,153611.0,22.0
+Mattersburg,Burgenland,MA,237.83,40593.0,19.0
+Melk,Niederösterreich,ME,1013.56,78505.0,40.0
+Mistelbach,Niederösterreich,MI,1291.72,76073.0,36.0
+Mödling,Niederösterreich,MD,276.99,119627.0,20.0
+Murau,Steiermark,MU,1385.48,27252.0,14.0
+Murtal (Judenburg),Steiermark,"MT JU, KF(A)",1675.81,71245.0,20.0
+Neunkirchen,Niederösterreich,NK,1146.92,86499.0,44.0
+Neusiedl am See,Burgenland,ND,1038.64,60806.0,27.0
+Oberpullendorf,Burgenland,OP,701.44,37524.0,28.0
+Oberwart,Burgenland,OW,732.58,54353.0,32.0
+Perg,Oberösterreich,PE,613.52,69827.0,26.0
+Reutte,Tirol,RE,1236.67,33284.0,37.0
+Ried (Ried im Innkreis),Oberösterreich,RI,584.96,62252.0,36.0
+Rohrbach (Rohrbach-Berg),Oberösterreich,RO,817.58,56838.0,37.0
+Rust,Burgenland,E,20.01,1984.0,1.0
+Salzburg,Salzburg,S,65.65,155416.0,1.0
+Salzburg-Umgebung (Salzburg),Salzburg,SL,1004.47,154624.0,37.0
+St. Johann im Pongau,Salzburg,JO,1755.37,81392.0,26.0
+St. Pölten,Niederösterreich,P,108.44,56360.0,1.0
+St. Pölten,Niederösterreich,PL WU(A),1286.88,132605.0,45.0
+St. Veit an der Glan,Kärnten,SV,1493.58,53898.0,20.0
+Schärding,Oberösterreich,SD,618.44,57497.0,30.0
+Scheibbs,Niederösterreich,SB,1023.46,41583.0,18.0
+Schwaz,Tirol,SZ,1843.18,85187.0,39.0
+Spittal an der Drau,Kärnten,SP,2764.99,75549.0,33.0
+Steyr,Oberösterreich,SR,26.56,37879.0,1.0
+Steyr-Land (Steyr),Oberösterreich,SE,971.73,61209.0,20.0
+Südoststeiermark (Feldbach),Steiermark,"SO FB, RA(A)",982.96,83696.0,25.0
+Tamsweg,Salzburg,TA,1019.65,20118.0,15.0
+Tulln (Tulln an der Donau),Niederösterreich,"TU, KG(D) WU(A)",734.42,106827.0,22.0
+Urfahr-Umgebung (Linz),Oberösterreich,UU,659.67,87127.0,27.0
+Villach,Kärnten,VI,134.99,64071.0,1.0
+Villach-Land (Villach),Kärnten,VL,1009.29,65285.0,19.0
+Voitsberg,Steiermark,VO,678.18,51039.0,15.0
+Vöcklabruck,Oberösterreich,VB,1084.85,139416.0,52.0
+Völkermarkt,Kärnten,VK,907.61,41905.0,13.0
+Waidhofen an der Thaya,Niederösterreich,WT,669.03,25511.0,15.0
+Waidhofen an der Ybbs,Niederösterreich,WY,131.56,11092.0,1.0
+Weiz,Steiermark,WZ,1097.94,91510.0,31.0
+Wels,Oberösterreich,WE,45.92,63181.0,1.0
+Wels-Land (Wels),Oberösterreich,WL,457.71,75239.0,24.0
+Wien,Wien,W,414.82,1931593.0,1.0
+Wiener Neustadt,Niederösterreich,WN,60.94,47106.0,1.0
+Wiener Neustadt,Niederösterreich,WB,969.84,79523.0,35.0
+Wolfsberg,Kärnten,WO,973.65,52296.0,9.0
+Zell am See,Salzburg,ZE,2641.07,88168.0,28.0
+Zwettl (Zwettl-Niederösterreich),Niederösterreich,ZT,1399.9,41731.0,24.0
